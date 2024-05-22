@@ -1,0 +1,6 @@
+numpy
+ultralytics
+opencv-python
+matplotlib
+torch
+supervision
